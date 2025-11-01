@@ -20,7 +20,7 @@ function Element1(){
                     <div className="container_left2"> 
                         <div className={style.container_left_text2}>Cuốn sách ngữ pháp tiếng Anh không chỉ là một công cụ học tập, mà là một chuyến hành trình kỳ thú vào thế giới của ngôn ngữ. Nó mở ra trước mắt người đọc một 
                             bức tranh rõ nét về cấu trúc và quy tắc của tiếng Anh, từ những quy tắc cơ bản cho đến 
-                            những biến thể tinh tế aaaaa. </div>
+                            những biến thể tinh tế. </div>
                     </div>
                 </div> 
                 <div className="container_right">
