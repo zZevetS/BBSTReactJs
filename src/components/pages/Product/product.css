@@ -1,0 +1,85 @@
+.product_name_div1
+{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+}
+.product_hr_left
+{
+    flex-grow: 1;
+    margin-left: 10em; 
+    margin-right: 10em ; 
+    height: 2px; 
+    background-color: #000000;
+}
+.container_left1
+{
+    margin-top: 120px;
+    max-width: 45em;
+}
+.container_left2
+{
+    margin-top: 1em;
+}
+.product_hr_right
+{
+    flex-grow: 1; 
+    margin-left: 10em;
+    margin-right: 10em ; 
+    height: 2px; 
+    background-color: #000000;
+}
+.product_name_div2
+{
+    margin-top: 20px;
+    text-align: center;
+} 
+.container_right
+{
+    margin-top: 3em;
+}
+.container_right_img1
+{
+    margin-right: 30px; 
+    margin-left: 1em;
+    width: 15em;
+    height: 22em;
+}
+.container_right_img2
+{
+    margin-bottom: 120px;
+    width: 15em;
+    height: 22em;
+}
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.container_left_book
+{
+    margin-top: 5em;
+}
+.container_right_book1
+{
+    margin-top: 130px;
+    max-width: 70em;
+}
+.container_rightt
+{
+    width: 40em;
+    margin: 20px auto;
+    background-color: #fefdfd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.2);
+}
+.container_right_book2
+{
+    margin-top: 2em;
+}
+.container_right_book3
+{
+    margin-top: 1em;
+}
