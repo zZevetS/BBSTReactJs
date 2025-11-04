@@ -184,6 +184,37 @@ body{
     font-weight: 300;
     font-style: normal;
 }
+.container_text
+{
+    margin-left: 110px;
+    margin-top: 3em;
+    font-size: 20px;
+    color: #11324D ;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.description
+{
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 110px;
+    margin-right: 110px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #000000;
+}
+.h2_text
+{
+    font-size: 35px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
 /* BACKGROUND */
 .deep_blue{
     background-color: #11324D ;

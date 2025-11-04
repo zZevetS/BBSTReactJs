@@ -83,3 +83,35 @@
 {
     margin-top: 1em;
 }
+.detail_line{
+    width: 370px;
+    height: 3px;
+    background-color: #000;
+    margin-top: 2px;
+
+}
+
+.text-content 
+{
+    position: relative;
+    max-height: 450px; /* Chiều cao ban đầu */
+    overflow: hidden;
+    transition: max-height 0.5s ease;
+}
+.text-content.expanded {
+    max-height: fit-content; /* Chiều cao mở rộng */
+}
+#toggle-button {
+    display: block;
+    text-align: center;
+    color: #11324D ;
+    text-decoration: none; /* Bỏ gạch chân */
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 0.7em;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
